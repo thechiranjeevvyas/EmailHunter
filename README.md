@@ -39,3 +39,30 @@ Ensure you have **Python 3.x** installed.
 ```bash
 pip install requests beautifulsoup4
 ```
+
+#HOW TO USE
+
+` Run this by python3 by typing python3 and the name of the script `
+![1](img/email.png)
+
+
+
+` Then it will ask you to enter the URL you wish to target `
+![1](img/email1.png)
+
+
+
+` Then it will start finding emails from every pages of the website you target`
+![1](img/email3.png)
+
+
+
+` And then here you go with results `
+![1](img/email4.png)
+
+
+
+## Note:- I have used https://home.iitd.ac.in/ as my attacking site but i don't have permission to do that so please first take a permission because sometimes you can also be scrapping some of the prive pages with this tool xD otherwise Hack The Planet ! 
+
+
+# @thechiranjeevvyas
